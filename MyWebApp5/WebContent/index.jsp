@@ -12,7 +12,7 @@
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
 	<li><a href="details.html"> Click to view Details</a></li>
-	<h1>Hello maven jenkins deploy</h1>
+	<h1>Hello maven jenkins deploy one</h1>
 </ul>
 
 </body>
