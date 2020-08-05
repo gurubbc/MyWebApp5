@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> User Registration Home Page</h1>
+<h1> User Registration Home Page maven deploy</h1>
 
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
