@@ -12,6 +12,7 @@
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
 	<li><a href="details.html"> Click to view Details</a></li>
+	<h1>Hello new</h1>
 </ul>
 
 </body>
