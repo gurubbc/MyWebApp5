@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> User Registration Home Page JENKINS attempt4</h1>
+<h1> User Registration Home Page JENKINS attempt5</h1>
 <p> Time: 11.49 </p>
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
