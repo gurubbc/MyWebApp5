@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> User Registration Home Page JENKINS attempt5</h1>
-<p> Time: 11.49 </p>
+<h1> User Registration Home Page JENKINS and GIThub</h1>
+The date & time: <%=new java.util.Date() %>
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
 	<li><a href="details.html"> Click to view Details</a></li>
