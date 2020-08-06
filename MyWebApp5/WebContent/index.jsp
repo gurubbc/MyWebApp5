@@ -10,6 +10,7 @@
 <h1> User Registration Home Page JENKINS and GIThub.</h1>
 <p> In the Tomcat URL option, I should give the public IP address, not local </p>
 <h1> This is another feature I am adding</h1>
+<h2> After changing to localhost</h2>
 The date & time: <%=new java.util.Date() %>
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
