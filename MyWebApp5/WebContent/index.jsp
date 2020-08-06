@@ -7,13 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> User Registration Home Page maven deploy</h1>
-
+<h1> User Registration Home Page JENKINS</h1>
+<p> Time: 11.49 </p>
 <ul>
 	<li><a href="register.html"> Click to register</a></li>
 	<li><a href="details.html"> Click to view Details</a></li>
-	<h1>Hello maven jenkins deploy one two three</h1>
+
 </ul>
+
 
 </body>
 </html>
